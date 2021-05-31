@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/align-systems/static/css/main.b03345de.chunk.css",
+    "main.js": "/align-systems/static/js/main.d803d52a.chunk.js",
+    "main.js.map": "/align-systems/static/js/main.d803d52a.chunk.js.map",
+    "runtime-main.js": "/align-systems/static/js/runtime-main.52527680.js",
+    "runtime-main.js.map": "/align-systems/static/js/runtime-main.52527680.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/align-systems/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5d0617b7.chunk.js": "/align-systems/static/js/2.5d0617b7.chunk.js",
+    "static/js/2.5d0617b7.chunk.js.map": "/align-systems/static/js/2.5d0617b7.chunk.js.map",
+    "index.html": "/align-systems/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/align-systems/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b03345de.chunk.css.map": "/align-systems/static/css/main.b03345de.chunk.css.map",
+    "static/js/2.5d0617b7.chunk.js.LICENSE.txt": "/align-systems/static/js/2.5d0617b7.chunk.js.LICENSE.txt",
+    "static/media/LOGO header.5dd24fc1.svg": "/align-systems/static/media/LOGO header.5dd24fc1.svg",
+    "static/media/cap1-1.09f783e5.png": "/align-systems/static/media/cap1-1.09f783e5.png",
+    "static/media/cap1-3.45b986d5.png": "/align-systems/static/media/cap1-3.45b986d5.png",
+    "static/media/cap2-1.7273a9cb.jpeg": "/align-systems/static/media/cap2-1.7273a9cb.jpeg",
+    "static/media/cap4.3723a997.jpg": "/align-systems/static/media/cap4.3723a997.jpg",
+    "static/media/cap5-1.3a3ea930.jpg": "/align-systems/static/media/cap5-1.3a3ea930.jpg",
+    "static/media/cap7-1.26166e13.png": "/align-systems/static/media/cap7-1.26166e13.png",
+    "static/media/cap7-2.dc622d77.png": "/align-systems/static/media/cap7-2.dc622d77.png",
+    "static/media/cap8-1.d4d21d18.png": "/align-systems/static/media/cap8-1.d4d21d18.png",
+    "static/media/cap9-1.0270b5ca.png": "/align-systems/static/media/cap9-1.0270b5ca.png",
+    "static/media/cap9-2.fc22bef3.png": "/align-systems/static/media/cap9-2.fc22bef3.png",
+    "static/media/globalimg.da74fcd6.jpg": "/align-systems/static/media/globalimg.da74fcd6.jpg",
+    "static/media/mark.35551fc8.jpg": "/align-systems/static/media/mark.35551fc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52527680.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5d0617b7.chunk.js",
+    "static/css/main.b03345de.chunk.css",
+    "static/js/main.d803d52a.chunk.js"
+  ]
+}
