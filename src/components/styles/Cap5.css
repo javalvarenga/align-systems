@@ -1,4 +1,4 @@
-.Cap2 {
+.Cap5 {
     width: 650px;
     padding: 1.6rem;
     max-width: 100%;
@@ -9,14 +9,14 @@
     border-radius: 25px;
     box-shadow: 1px 4px 10px gray;
   }
-  .Cap2 h3 {
+  .Cap5 h3 {
     text-align: center;
     margin-bottom: 3rem;
   }
-  .Cap2 img {
+  .Cap5 img {
     margin-top: 1rem;
     margin-bottom: 1rem;
     object-fit: cover;
     width: 100%;
   }
-
+  
