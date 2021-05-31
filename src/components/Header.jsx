@@ -16,8 +16,8 @@ function Header() {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav>
                         <Link to="/align-systems"><span>Inicio</span></Link>
-                        <Link to="/services"><span>Servicios</span></Link>
-                        <Link to="/about"><span>Acerca de nosotros</span> </Link>
+                        {/* <Link to="/services"><span>Servicios</span></Link>
+                        <Link to="/about"><span>Acerca de nosotros</span> </Link> */}
                         <Link to="/blog"><span>Blog</span></Link>
                     </Nav>
                 </Navbar.Collapse>
