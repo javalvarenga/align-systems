@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Cap1 from '../components/Cap1'
 import Cap2 from '../components/Cap2'
 import Cap3 from '../components/Cap3'
@@ -24,7 +24,6 @@ function Blog() {
             <Cap7 />
             <Cap8 />
             <Cap9 />
-
         </div>
     )
 }
