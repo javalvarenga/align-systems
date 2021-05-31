@@ -6,7 +6,7 @@ import img1 from "../assets/imgs/cap4.jpg"
 function Cap4() {
   return (
     <div className="Cap4">
-      <h3>Capítulo 4-Planeación y estrategia</h3>
+      <h3><b>Capítulo 4-Planeación y estrategia</b></h3>
       <div className="contenido">
       <p>
         La estrategia define la dirección de la compañía y la forma de competir

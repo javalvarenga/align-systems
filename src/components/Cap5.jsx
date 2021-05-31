@@ -4,7 +4,7 @@ import imgOrg from '../assets/imgs/cap5-1.jpg'
 function Cap5() {
   return (
     <div className="Cap5">
-      <h3>Capítulo 5-Organización de la Empresa</h3>
+      <h3><b>Capítulo 5-Organización de la Empresa</b></h3>
       <div className="contenido">
         <h5>
           <i>PROCESO DE ORGANIZACIÓN</i>

@@ -6,7 +6,7 @@ import mark from '../assets/imgs/mark.jpg'
 function Cap6() {
   return (
     <div className="Cap6">
-      <h3>Capítulo 6-Marketing</h3>
+      <h3><b>Capítulo 6-Marketing</b></h3>
       <div className="contenido">
       <p>
         De acuerdo con la Asociación Estadounidense de Marketing, la función de

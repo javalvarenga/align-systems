@@ -7,7 +7,7 @@ import img2 from '../assets/imgs/cap7-2.png'
 function Cap7() {
   return (
     <div className="Cap7">
-      <h3>Capitulo 7-Operaciones</h3>
+      <h3><b>Capitulo 7-Operaciones</b></h3>
       <div className="contenido">
         <p>
           El sistema de operaciones transforma las decisiones de estrategia y

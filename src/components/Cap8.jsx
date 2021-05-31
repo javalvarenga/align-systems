@@ -5,7 +5,7 @@ import './styles/Cap8.css'
 function Cap8() {
   return (
     <div className="Cap8">
-      <h3>Capitulo 8-Gestión de personas</h3>
+      <h3><b>Capitulo 8-Gestión de personas</b></h3>
       <div className="contenido">
         <p>
           Los recursos humanos y su gestión lo podemos definir en cuatro pasos
