@@ -1,0 +1,8 @@
+"Capítulo 1-Espíritu Emprendedor",
+            "Capitulo 2-Eleccion del negocio",
+            "Capítulo 3-Lo que debe saber sobre la situación económica",
+            "Capítulo 4-Planeación y estrategia",
+            "Capítulo 5-Organización de la Empresa",
+            "Capítulo 6-Marketing",
+            "Capitulo 7-Operaciones",
+            "Capitulo 8-Gestión de personas"
