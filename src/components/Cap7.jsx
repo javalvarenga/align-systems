@@ -1,13 +1,15 @@
 import React from "react";
-import './styles/Cap7.css'
+import "./styles/Cap7.css";
 
-import img1 from '../assets/imgs/cap7-1.png'
-import img2 from '../assets/imgs/cap7-2.png'
+import img1 from "../assets/imgs/cap7-1.png";
+import img2 from "../assets/imgs/cap7-2.png";
 
 function Cap7() {
   return (
     <div className="Cap7">
-      <h3><b>Capitulo 7-Operaciones</b></h3>
+      <h3>
+        <b>Capitulo 7-Operaciones</b>
+      </h3>
       <div className="contenido">
         <p>
           El sistema de operaciones transforma las decisiones de estrategia y

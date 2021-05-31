@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles/Cap3.css";
-import global from '../assets/imgs/globalimg.jpg'
+import global from "../assets/imgs/globalimg.jpg";
 
 function Cap3() {
   return (
